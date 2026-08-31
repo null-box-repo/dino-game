@@ -1,5 +1,6 @@
 # Dino Game
-![[logo](icon.jpg)
+![logo](icon.jpg)
+
 The classic Chrome Dino Game that appears when offline.
 <p align="center">
   <img src="https://img.shields.io/github/downloads/null-box-repo/dino-game/total?label=Downloads"/>
