@@ -1,8 +1,11 @@
 id=dino-game
 name=Dino Game
-description=simple game
+icon=icon.jpg
+description=The classic Chrome Dino Game that appears when offline
 author=YasserNull
 version=v1.0.0
 versionCode=1
 repository=https://github.com/null-box-repo/dino-game
-script=dino-game.html
+html=dino-game.html
+install=setup.sh
+permission=default
